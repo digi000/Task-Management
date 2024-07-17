@@ -11,7 +11,6 @@ h1, h4 {
   font-family: 'Press Start 2P', cursive;
 }
 
-/* 更改input button的樣式 */
 input[type=submit] {
   padding:5px 15px; 
   background:#ccc; 
@@ -62,7 +61,7 @@ td {
   width: 70%;
 }
 
-/* 更改button的樣式 */
+
 .button-85 {
 padding: 0.6em 2em;
 border: none;
